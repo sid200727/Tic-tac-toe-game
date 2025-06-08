@@ -47,7 +47,7 @@ h1 {
 #restartbtn:hover {
     background-color: rgb(167, 222, 145);
 }
-#status{
+#statusText{
     margin-top: 20px;
     font-size: 1.2em;
     color: rgb(166, 249, 234);
