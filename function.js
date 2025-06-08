@@ -1,5 +1,5 @@
 const board= document.getElementById("board");
-const status= document.getElementById("status");
+const status= document.getElementById("statusText");
 const resetButton= document.getElementById("resetButton");
 let currentPlayer= "X";
 let gameActive= true;
