@@ -1,5 +1,5 @@
 body {  
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background-color: paleturquoise;
     margin: 0;
@@ -8,7 +8,7 @@ body {
 h1 {
     color:mediumslateblue;
 }
-.gamecontainer {
+gamecontainer {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -47,7 +47,7 @@ h1 {
 #restartbtn:hover {
     background-color: rgb(167, 222, 145);
 }
-#statusText{
+#status{
     margin-top: 20px;
     font-size: 1.2em;
     color: rgb(166, 249, 234);
