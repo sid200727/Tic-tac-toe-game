@@ -1,12 +1,12 @@
 body {  
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
     text-align: center;
-    background-color: plum;
+    background-color: paleturquoise;
     margin: 0;
     padding: 28px;
 }
 h1 {
-    color:darkblue;
+    color:mediumslateblue;
 }
 .gamecontainer {
     display: flex;
